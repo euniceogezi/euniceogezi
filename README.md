@@ -10,15 +10,18 @@ Alongside my technical learning, I bring a strong operational and documentation 
 - Scripting and tooling basics (learning)
 
 ## Skills & Tools
-- Cisco Packet Tracer  
-- Networking fundamentals  
-- Routing & switching basics  
-- DHCP, DNS, and web services  
-- Access control concepts  
-- TryHackMe (foundations)  
-- Git & GitHub  
-- Documentation and analysis  
-- Excel (advanced)
+Cisco Packet Tracer  
+Kali Linux  
+Linux command line (CLI)  
+Networking fundamentals  
+Routing & switching basics  
+DHCP, DNS, HTTP, and FTP services  
+Access control concepts (ACLs)  
+TryHackMe (foundations)  
+GitHub (project versioning)  
+Documentation and analysis  
+Excel (advanced)              
+More tools in progress
 
 ## Projects
 - Network Lab: Router, DHCP, DNS, Web Server, File Transfer, and ACL Configuration  
@@ -27,5 +30,5 @@ Alongside my technical learning, I bring a strong operational and documentation 
 - More projects in progress
 
 ## How to reach me:
-- LinkedIn: https://linkedin.com/in/yourname  
-- Email: yourname@email.com
+- LinkedIn: https://linkedin.com/in/yourname  (coming soon)
+- Email: yourname@email.com (coming soon)
