@@ -9,7 +9,7 @@ Alongside my technical learning, I bring a strong operational and documentation 
 - Hands-on cyber practice using virtual environments
 - Scripting and tooling basics (learning)
 
-  ## Skills & Tools
+## Skills & Tools
 - Cisco Packet Tracer  
 - Networking fundamentals  
 - Routing & switching basics  
