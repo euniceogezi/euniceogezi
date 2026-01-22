@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Eunice
+I’m a cybersecurity student building hands-on experience across networking, Linux systems, and cyber operations through labs, simulations, and security challenges.
+My work focuses on understanding how systems are configured, how services communicate, how access is controlled, and how security teams detect and respond to suspicious activity in real environments.
+Alongside my technical learning, I bring a strong operational and documentation mindset from my professional background, which shapes how I approach risk, reliability, and system discipline.
 
-<!--
-**euniceogezi/euniceogezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I’m Working On
+- Network configuration and simulation (routers, DHCP, DNS, web servers, file transfer, ACLs)
+- Security fundamentals and lab-based learning
+- Hands-on cyber practice using virtual environments
+- Scripting and tooling basics (learning)
 
-Here are some ideas to get you started:
+  ## Skills & Tools
+- Cisco Packet Tracer  
+- Networking fundamentals  
+- Routing & switching basics  
+- DHCP, DNS, and web services  
+- Access control concepts  
+- TryHackMe (foundations)  
+- Git & GitHub  
+- Documentation and analysis  
+- Excel (advanced)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Network Lab: Router, DHCP, DNS, Web Server, File Transfer, and ACL Configuration  
+- Security Labs: Foundational hands-on challenges  
+- Home Lab: Virtual network and service simulation  
+- More projects in progress
+
+## How to reach me:
+- LinkedIn: https://linkedin.com/in/yourname  
+- Email: yourname@email.com
